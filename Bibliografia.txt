@@ -6,7 +6,14 @@ Nombre de los alumnos:
 
 
 
+<<<<<<< HEAD
 Matías Jofré
+=======
+
+
+
+Franco Diaz
+>>>>>>> f2fdb0ac3026b099bcae22d0eb6ea18b897a678c
 =======
 Ismael Romero
 
