@@ -8,7 +8,7 @@ Nombre de los alumnos:
 
 
 
-
+Octavio Cortez
 Franco Diaz
 =======
 Ismael Romero
