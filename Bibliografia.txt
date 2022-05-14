@@ -1,6 +1,7 @@
 Nombre de los alumnos:
 
 <<<<<<< HEAD
+gregorio gabriel
 
 
 
@@ -10,8 +11,7 @@ Nombre de los alumnos:
 Matías Jofré
 =======
 
-
-
+Octavio Cortez
 Franco Diaz
 >>>>>>> f2fdb0ac3026b099bcae22d0eb6ea18b897a678c
 =======
