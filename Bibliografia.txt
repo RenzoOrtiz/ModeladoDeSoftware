@@ -1,8 +1,14 @@
 Nombre de los alumnos:
 
+<<<<<<< HEAD
 
 
 
 
 
 Matías Jofré
+=======
+Ismael Romero
+
+Jeremias Fernandez
+>>>>>>> 2265691d5dc95c0d36e4e84e76c8f0978ec088b3
