@@ -1,21 +1,14 @@
 Nombre de los alumnos:
 
-<<<<<<< HEAD
 gregorio gabriel
 
 
-
-
-
-<<<<<<< HEAD
 Matías Jofré
-=======
-
+Candido Facundo
 Octavio Cortez
 Franco Diaz
->>>>>>> f2fdb0ac3026b099bcae22d0eb6ea18b897a678c
-=======
+
 Ismael Romero
 
 Jeremias Fernandez
->>>>>>> 2265691d5dc95c0d36e4e84e76c8f0978ec088b3
+
