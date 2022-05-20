@@ -1,5 +1,5 @@
-Nombre de los alumnos:
-
+﻿Nombre de los alumnos:
+victor abalos
 Francisco Caceres
 gregorio gabriel
 Matías Jofré
