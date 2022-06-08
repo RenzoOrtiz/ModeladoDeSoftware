@@ -1,7 +1,7 @@
 ﻿Nombre de los alumnos:
 victor abalos
 Francisco Caceres
-gregorio gabriel
+Gregorio Gabriel
 Matías Jofré
 Candido Facundo
 Octavio Cortez
