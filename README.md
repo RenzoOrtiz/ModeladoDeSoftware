@@ -1,3 +1,2 @@
-# ModeladoDeSoftware
-
-Curso practico Git y GitHub
+# ModeladoDeSoftwareIES
+Repositorio de practica, primer commit.
